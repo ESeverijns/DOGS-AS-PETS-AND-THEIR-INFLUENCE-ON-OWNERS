@@ -1,0 +1,199 @@
+"","Year","Suburb","Suburb_dog_friendliness_score","totalOffences"
+"1",2016,"aberfoyle park",4.0054,140
+"2",2015,"adelaide",3.9346,2710
+"3",2016,"alberton",3.9132,80
+"4",2016,"aldinga",4.017,47
+"5",2016,"aldinga beach",4.0178,227
+"6",2015,"andrews farm",3.9682,258
+"7",2016,"angle park",3.8727,67
+"8",2015,"angle vale",3.9647,78
+"9",2016,"auburn",3.5,10
+"10",2015,"auldana",3.9803,1
+"11",2015,"beaumont",4.035,17
+"12",2015,"bedford park",3.8874,79
+"13",2015,"belair",4.0522,63
+"14",2015,"bellevue heights",4.0161,22
+"15",2015,"beulah park",4.0607,29
+"16",2015,"bibaringa",3.973,3
+"17",2016,"birkenhead",3.8817,57
+"18",2015,"blackwood",4.0326,101
+"19",2016,"blair athol",3.8875,229
+"20",2015,"blakeview",4.0006,186
+"21",2016,"blewitt springs",3.9062,6
+"22",2016,"broadview",3.9601,163
+"23",2015,"brown hill creek",3.9375,2
+"24",2015,"buckland park",3.6736,3
+"25",2015,"burnside",4.1761,25
+"26",2016,"chandlers hill",4.0104,10
+"27",2016,"christie downs",3.9202,303
+"28",2016,"christies beach",3.9198,347
+"29",2015,"clapham",3.9988,9
+"30",2015,"clarence gardens",4.0279,36
+"31",2016,"clarendon",4.0319,4
+"32",2016,"clearview",3.9437,161
+"33",2016,"collinswood",4.0625,51
+"34",2015,"colonel light gardens",4.0204,24
+"35",2016,"coromandel east",4.1091,1
+"36",2015,"coromandel valley",4.0536,31
+"37",2016,"coromandel valley",4.1403,21
+"38",2015,"crafers west",4.2344,5
+"39",2015,"craigburn farm",3.9946,22
+"40",2015,"craigmore",3.9847,182
+"41",2016,"croydon park",3.8304,138
+"42",2015,"cumberland park",4.0073,56
+"43",2016,"darlington",4.0488,55
+"44",2015,"davoren park",3.8244,555
+"45",2015,"daw park",3.921,53
+"46",2016,"dernancourt",3.8462,37
+"47",2016,"devon park",3.9199,43
+"48",2016,"dry creek",3.8333,89
+"49",2016,"dudley park",3.9113,26
+"50",2015,"dulwich",4.0212,22
+"51",2015,"eastwood",3.9931,25
+"52",2015,"eden hills",3.9815,71
+"53",2015,"elizabeth",3.931,673
+"54",2015,"elizabeth downs",3.822,264
+"55",2015,"elizabeth east",3.9232,184
+"56",2015,"elizabeth grove",3.9179,193
+"57",2015,"elizabeth north",3.8148,217
+"58",2015,"elizabeth park",3.8894,247
+"59",2015,"elizabeth south",3.8075,327
+"60",2015,"elizabeth vale",3.9262,252
+"61",2016,"enfield",3.8384,200
+"62",2015,"erindale",4.1467,10
+"63",2016,"ethelton",3.9958,38
+"64",2015,"evanston park",3.7727,56
+"65",2016,"exeter",3.9527,47
+"66",2016,"ferryden park",3.8204,78
+"67",2016,"fitzroy",4.1979,9
+"68",2016,"flagstaff hill",4.0872,68
+"69",2015,"frewville",4.0727,20
+"70",2016,"gepps cross",3.8952,72
+"71",2016,"gilles plains",3.9458,184
+"72",2016,"gillman",3.5,32
+"73",2016,"glanville",3.8868,32
+"74",2015,"glen osmond",3.9697,34
+"75",2015,"glenalta",4.0297,12
+"76",2015,"glenside",4.016,85
+"77",2015,"glenunga",4.1942,45
+"78",2015,"gould creek",4.3,6
+"79",2016,"greenacres",3.8214,119
+"80",2016,"hackham",3.9195,120
+"81",2016,"hackham west",3.9798,236
+"82",2016,"hampstead gardens",3.8873,45
+"83",2016,"happy valley",4.0784,153
+"84",2015,"hawthorn",4.0467,62
+"85",2015,"hawthorndene",4.0233,41
+"86",2015,"hazelwood park",4.1372,11
+"87",2015,"hillbank",4.0046,159
+"88",2016,"hillcrest",4.0026,104
+"89",2015,"hillier",4,4
+"90",2016,"holden hill",3.875,120
+"91",2015,"humbug scrub",4.0568,3
+"92",2016,"huntfield heights",3.9054,137
+"93",2016,"ironbank",4.1029,4
+"94",2016,"kangarilla",4.0848,7
+"95",2015,"kensington gardens",4.129,29
+"96",2015,"kensington park",4.1172,25
+"97",2016,"kilburn",3.8271,381
+"98",2015,"kingswood",4.0491,56
+"99",2016,"klemzig",3.9141,152
+"100",2016,"kuitpo",3.7308,1
+"101",2016,"largs bay",3.9979,149
+"102",2016,"largs north",3.9632,125
+"103",2015,"leabrook",4.0403,7
+"104",2015,"linden park",4.0495,28
+"105",2016,"lonsdale",3.7604,64
+"106",2015,"lower mitcham",4.0106,13
+"107",2015,"lynton",4.0338,2
+"108",2015,"macdonald park",4.0824,12
+"109",2015,"magill",4.0595,120
+"110",2016,"manningham",3.9494,18
+"111",2016,"mansfield park",3.8565,160
+"112",2016,"maslin beach",3.9765,23
+"113",2016,"mclaren flat",4.0518,13
+"114",2016,"mclaren vale",3.9792,65
+"115",2016,"medindie gardens",3.9333,10
+"116",2015,"melrose park",3.9705,76
+"117",2015,"mitcham",4.0158,19
+"118",2016,"moana",4.0749,55
+"119",2016,"morphett vale",3.9614,852
+"120",2015,"mount osmond",4.1611,4
+"121",2015,"munno para",3.926,215
+"122",2015,"munno para downs",3.7321,5
+"123",2015,"munno para west",3.9542,199
+"124",2016,"nailsworth",3.9286,59
+"125",2015,"netherby",4.0419,20
+"126",2016,"noarlunga centre",4.1875,380
+"127",2016,"noarlunga downs",3.9599,127
+"128",2015,"north adelaide",3.9456,242
+"129",2016,"north haven",3.9438,96
+"130",2016,"northfield",3.8262,171
+"131",2016,"northgate",4.15,141
+"132",2016,"o'halloran hill",3.9638,38
+"133",2016,"o'sullivan beach",3.867,58
+"134",2016,"oakden",4,69
+"135",2016,"old noarlunga",3.9561,49
+"136",2016,"old reynella",4.0116,93
+"137",2015,"one tree hill",4.1201,24
+"138",2016,"onkaparinga hills",3.9946,24
+"139",2016,"osborne",3.8429,79
+"140",2016,"ottoway",3.8324,99
+"141",2016,"ovingham",3.75,43
+"142",2015,"panorama",3.9392,35
+"143",2015,"pasadena",3.9561,92
+"144",2015,"penfield",3.6771,29
+"145",2015,"penfield gardens",3.9265,8
+"146",2016,"peterhead",3.8949,34
+"147",2016,"port adelaide",3.8722,377
+"148",2016,"port noarlunga",4.0071,97
+"149",2016,"port noarlunga south",3.9385,40
+"150",2016,"port willunga",4.0282,39
+"151",2016,"prospect",3.9015,433
+"152",2016,"queenstown",3.8412,74
+"153",2016,"reynella",3.9292,223
+"154",2016,"reynella east",3.9676,23
+"155",2015,"rose park",4.1197,36
+"156",2016,"rosewater",3.9344,178
+"157",2015,"rosslyn park",3.976,10
+"158",2015,"sampson flat",4.1471,5
+"159",2016,"seaford",3.9703,209
+"160",2016,"seaford heights",4.6667,6
+"161",2016,"seaford meadows",4.0769,151
+"162",2016,"seaford rise",3.9851,72
+"163",2016,"sefton park",4.0859,78
+"164",2016,"sellicks beach",4.0294,42
+"165",2016,"sellicks hill",3.8462,4
+"166",2016,"semaphore",4.0038,153
+"167",2016,"semaphore south",3.8774,30
+"168",2015,"skye",4.0312,4
+"169",2015,"smithfield",3.9129,449
+"170",2015,"smithfield plains",3.855,129
+"171",2015,"springfield",3.8208,5
+"172",2015,"st georges",4.0825,10
+"173",2015,"st marys",3.9113,107
+"174",2015,"stonyfell",4.1134,4
+"175",2016,"taperoo",3.9481,175
+"176",2016,"tatachilla",3.8011,1
+"177",2016,"thorngate",4.375,1
+"178",2015,"toorak gardens",4.1467,22
+"179",2015,"torrens park",4.0225,39
+"180",2015,"tusmore",4.125,15
+"181",2015,"uleybury",3.8819,8
+"182",2015,"upper sturt",3.8056,7
+"183",2015,"urrbrae",4.1543,13
+"184",2016,"valley view",3.9542,103
+"185",2015,"virginia",3.9676,41
+"186",2016,"walkley heights",3.7348,50
+"187",2015,"waterfall gully",3.625,3
+"188",2015,"waterloo corner",3.9962,35
+"189",2015,"wattle park",4.1064,8
+"190",2015,"westbourne park",4.0525,27
+"191",2016,"whites valley",3.9474,4
+"192",2016,"willunga",4.1353,18
+"193",2016,"willunga south",3.9828,2
+"194",2016,"windsor gardens",3.9638,195
+"195",2016,"wingfield",3.7368,95
+"196",2016,"woodcroft",4.0245,121
+"197",2016,"woodville gardens",3.7471,110
+"198",2015,"yattalunga",3.8988,2
